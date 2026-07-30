@@ -4,7 +4,7 @@
 
 Hi, My name is THOMAS CAMILO VANEGAS ACEVEDO
 
-![profile photo](./imgs/profile_photo)
+![profile photo](./profile_photo.jpg)
 
 I'm participating in **Neocamp** bootcamp.
 
