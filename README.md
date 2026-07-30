@@ -2,9 +2,13 @@
 
 ## Introduction
 
-My name is THOMAS CAMILO VANEGAS ACEVEDO
+Hi, My name is THOMAS CAMILO VANEGAS ACEVEDO
 
-I'm participating in **Neocamp**
+![profile photo](./imgs/profile_photo)
+
+I'm participating in **Neocamp** bootcamp.
+
+Some of my goals for this bootcamp are improving my programming skills and upgrading my teamwork skills.
 
 ---
 
