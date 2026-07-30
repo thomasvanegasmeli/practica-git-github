@@ -1,2 +1,5 @@
-# practica-git-github
-Git and Github practice - Neocamp
+# Git and Github Practice
+
+Mi nombre es THOMAS CAMILO VANEGAS ACEVEDO
+
+Estoy participando en **Neocamp**
